@@ -5,7 +5,7 @@ A flutter application based calculator especially designed for ipads (as by defa
 # Works on
 - IOS
 - ANDROID
-- MAC OS
-- WINDOWS OS
+- MAC
+- WINDOWS
 - WEB
 
